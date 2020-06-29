@@ -4,7 +4,7 @@ def snake_it_up(string)
   count =0
   if string[0] == "s"
      "s" + string
-     count += 1
+     count += 10
   else
     string
   end
